@@ -1,0 +1,78 @@
+body{
+    font-family: myriadProRegular;
+    background-color: #e7e7ed;
+}
+
+.wrapp{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.container{
+    padding-top: 20px;
+}
+
+h2{
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+h4{
+    font-family: myriadProRegular;
+}
+.caption{
+    font-family: 'Lato', sans-serif;
+    line-height: 1.1;
+    font-size: 29px;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.caption2{
+    font-family: 'Lato', sans-serif;
+    line-height: 1;
+    font-size: 29px;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.eventTitle{
+    padding: 5px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    background-color: black;
+}
+
+.imagen{
+    position: relative;
+}
+
+.captionImage{
+    position: absolute;
+    top: 140px;    
+    padding: 10px 10px 15px 10px;
+    
+}
+
+
+.captionImage h4, .captionImageDay h4{
+   margin-bottom: 4px;
+}
+
+.captionImageDay{
+    padding: 10px 10px 15px 10px;
+    width: 320px;
+    background-color: white;
+}
+
+.photoDay{
+    position: relative;
+}
+.play{
+    position: absolute;
+    top: 270px;
+    left: 284px;
+}
